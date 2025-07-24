@@ -14,7 +14,7 @@ A modern, fully responsive **Doctor or Hospital Landing Page** built using **HTM
 
 | Desktop View | Mobile View |
 |--------------|-------------|
-| ![Desktop](https://i.imgur.com/your-desktop-screenshot.png) | ![Mobile](https://i.imgur.com/your-mobile-screenshot.png) |
+| ![Desktop](preview-Doctor-Landing.png) | ![Mobile](mobile.png) |
 
 > *Replace the above image links with your actual screenshots.*
 
@@ -54,10 +54,10 @@ A modern, fully responsive **Doctor or Hospital Landing Page** built using **HTM
    ```bash
    git clone https://github.com/Abbas-Devloper/Doctor.git
 
+## 👨‍💻 Author
 
-👨‍💻 Author
-Muhammad Abbas Soomro
-💼 Front-End Developer | UI/UX Enthusiast
-📧 Email Me
-🐙 GitHub – Abbas-Devloper
+**Muhammad Abbas Soomro**  
+💼 Front-End Developer | UI/UX Enthusiast  
+📧 [Email Me](mailto:soomromuhammadabbas671@gmail.com)  
+🐙 [GitHub – Abbas-Devloper](https://github.com/Abbas-Devloper)
 
