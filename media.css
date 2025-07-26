@@ -57,8 +57,10 @@
     }
 
     .services {
-        height: 90vh;
-        /* height: auto; */
+        /* height: 190vh; */
+
+        height: auto;
+        padding-top: 50%;
         padding-right: 30px;
     }
 
@@ -121,8 +123,8 @@
     }
 
     .services {
-        height: 50%;
-        /* height: auto; */
+        /* height: 90%; */
+        height: auto;
         padding-right: 30px;
         padding-left: 30px;
         padding-bottom: 0;
@@ -225,7 +227,7 @@
     }
 
     .contact {
-        padding-top: 40%;
+        padding-top: 60%;
     }
 
     .contact-container {
@@ -303,6 +305,9 @@
         padding-left: 30px;
         padding-bottom: 0;
         margin-bottom: 0;
+    }
+    .services h1{
+        font-size: 1.3rem;
     }
 
     .about p {
